@@ -1,6 +1,6 @@
 # FTIR_Code
 
-This package was written for the data analysis of the ["FTIR on Protein Secondary Structure" practical of the Institute of Applied Physics, Tübingen University](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-angewandte-physik/studium/nanoscience-practical/). This practicum is a part of the Physics, Biomedical Technology, and Nanoscience studying programs.
+This GUI was written for the data analysis of the ["FTIR on Protein Secondary Structure" practical of the Institute of Applied Physics, Tübingen University](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/institut-fuer-angewandte-physik/studium/nanoscience-practical/). This practicum is a part of the Physics, Biomedical Technology, and Nanoscience studying programs.
 
 ## Disclaimer
 
