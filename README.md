@@ -4,7 +4,9 @@ This GUI was written for the data analysis of the ["FTIR on Protein Secondary St
 
 ## Disclaimer
 
-This repository mainly serves as a public archive for the code used for the [FTIR practical](https://uni-tuebingen.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NzAyMTU0MTgsImV4cCI6MTY3MDMwNTQxNiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW5cL1VuaV9UdWViaW5nZW5cL0Zha3VsdGFldGVuXC9NYXRoZVBoeXNpa1wvSW5zdGl0dXRlXC9JQVBcL0ZvcnNjaHVuZ1wvWmhhbmdcL0ZUSVJfZW5nbGlzaF8yMDE4LnBkZiIsInBhZ2UiOjQzMzQ1fQ.TNpcm8kYLYcPkTrrntls6nanO_J0anspyI65YZYRqRs/FTIR_english_2018.pdf) and is not yet optimized for the use by other researchers. Future updates will improve the functionality and usability of the program.
+This repository mainly serves as a public archive for the code used for the [FTIR practical](https://uni-tuebingen.de/securedl/sdl-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NzAyMTU0MTgsImV4cCI6MTY3MDMwNTQxNiwidXNlciI6MCwiZ3JvdXBzIjpbMCwtMV0sImZpbGUiOiJmaWxlYWRtaW5cL1VuaV9UdWViaW5nZW5cL0Zha3VsdGFldGVuXC9NYXRoZVBoeXNpa1wvSW5zdGl0dXRlXC9JQVBcL0ZvcnNjaHVuZ1wvWmhhbmdcL0ZUSVJfZW5nbGlzaF8yMDE4LnBkZiIsInBhZ2UiOjQzMzQ1fQ.TNpcm8kYLYcPkTrrntls6nanO_J0anspyI65YZYRqRs/FTIR_english_2018.pdf) and is not yet optimized for the use by other researchers. Future updates will improve the functionality and usability of the program. 
+
+**If you do not want to do any programming, just download the "main.exe"**, if you would like to be able to optimize the program on your own in Python - work with the whole branch.
 
 ## Main dependencies
 
@@ -14,7 +16,7 @@ To be able to run the code, a python 3.7 installation with the following depende
 * numpy
 * scipy.optimize
 
-The github directory also contains "main.exe", which can be used to directly start the application on Windows.
+The github directory also contains "main.exe", which can be used to directly start the application on Windows. In this case, the **ONLY** thing which requires downloading is "main.exe". It may take some time for a program to start.
 
 ## Data analysis
 The raw data of the FTIR consists of two columns (wavenumber and absorption) and is saved as a .txt file. The data procedure is the following:
